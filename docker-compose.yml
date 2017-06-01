@@ -7,4 +7,4 @@ services:
             - http_proxy
             - https_proxy
             - no_proxy
-    image: cubeearth/tools-coreos-config_transpiler
+    image: cubeearth/tools-coreos-ct
