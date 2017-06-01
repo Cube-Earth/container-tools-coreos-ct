@@ -1,0 +1,10 @@
+version: '2'
+services:
+  coreos-tool:
+    build:
+        context: .
+        args:
+            - http_proxy
+            - https_proxy
+            - no_proxy
+    image: cubeearth/tools-coreos-config_transpiler
