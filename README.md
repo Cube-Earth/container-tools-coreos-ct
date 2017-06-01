@@ -1,5 +1,5 @@
 # Introduction
-With the config transpiler, cloud-config files can be converted to Ignition JSON format.
+With the config transpiler, config files (simliar, but not identical to cloud-config files) can be converted to Ignition JSON format.
 
 # Usage
 ```
