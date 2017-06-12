@@ -1,6 +1,6 @@
 version: '2'
 services:
-  coreos-tool:
+  single:
     build:
         context: .
         args:
