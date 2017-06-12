@@ -7,7 +7,7 @@ The purpose of this container is hosting the ct tool.
 curl -O docker-compose.yml https://github.com/Cube-Earth/dockerfile-tools-coreos-ct/docker-compose.yml
 docker-compose pull
 
-docker-compose run --rm single << EOF
+docker-compose run --rm main << EOF
 storage:
   files:
     - path: /home/core/.bashrc
