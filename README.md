@@ -33,4 +33,6 @@ or, if you only need the binary for Alpine, look [here](https://github.com/Cube-
 
 
 # References
-https://github.com/coreos/container-linux-config-transpiler
+- https://github.com/coreos/container-linux-config-transpiler
+- https://github.com/Cube-Earth/container-tools-coreos-ct
+- https://hub.docker.com/r/cubeearth/tools-coreos-ct/
